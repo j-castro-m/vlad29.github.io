@@ -1,47 +1,43 @@
 {
     "usuario": "vlad29",
     "historias": [
-      {
-        "id": 1,
-        "titulo": "entrevista con el vampiro",
-        "texto": "Tienes que elegir con quien montarte en el taxi",
-        "opcion1Nombre": "Lestat",
-        "opcion1Texto": "para encontrar el siguiente lugar debes acudir a la fuente de agua clara que se encuentra al lado del rey",
-        "opcion1GPS": "42.000,0.4343",
-        "opcion2Nombre": "Lilith",
-        "opcion2Texto": "sube hacia la loma por la que el sol asoma",
-        "opcion2GPS": "42.100,0.6343",
-        "historico": {
-          "itemHistorico1": {
-            "textoHistorico": "historia historico",
-            "opcionElegida": "Adelie"
-          },
-          "itemHistorico2": {
-            "textoHistorico": "historia historico2",
-            "opcionElegida": "Amelie"
-          }
+        {
+            "id": 1,
+            "titulo": "entrevista con el vampiro",
+            "texto": "Tienes que elegir con quien montarte en el taxi",
+            "opcion1Texto": "Lestat",
+            "opcion1GPS": "42.000,0.4343",
+            "opcion2Texto": "Lilith",
+            "opcion2GPS": "42.100,0.6343",
+            "historico": [
+                {
+                    "textoHistorico": "historia historico",
+                    "opcionElegida": "Adelie"
+                },
+                {
+                    "textoHistorico": "historia historico2",
+                    "opcionElegida": "Amelie"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Loca academia",
+            "texto": "Tienes que elegir la comisaria",
+            "opcion1Texto": "LA",
+            "opcion1GPS": "42.000,0.4343",
+            "opcion2Texto": "Santa Barbara",
+            "opcion2GPS": "42.100,0.6343",
+            "historico": [
+                {
+                    "textoHistorico": "historia historico",
+                    "opcionElegida": "DownTown"
+                },
+                {
+                    "textoHistorico": "historia historico2",
+                    "opcionElegida": "Las grecas"
+                }
+            ]
         }
-      },
-      {
-        "id": 2,
-        "titulo": "Loca academia",
-        "texto": "Tienes que elegir la comisaria",
-        "opcion1Nombre": "LA",
-        "opcion1Texto": "para encontrar el siguiente lugar debes acudir a la los negratas fuman crack",
-        "opcion1GPS": "42.000,0.4343",
-        "opcion2Nombre": "DownTown",
-        "opcion2Texto": "Acude a casa de el Tito Yerbas, alli encontraras lo que buscas",
-        "opcion2GPS": "42.100,0.6343",
-        "historico": {
-          "itemHistorico1": {
-            "textoHistorico": "historia historico",
-            "opcionElegida": "DownTown"
-          },
-          "itemHistorico2": {
-            "textoHistorico": "historia historico2",
-            "opcionElegida": "Las grecas"
-          }
-        }
-      }
     ]
 }
