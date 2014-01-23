@@ -1,0 +1,15 @@
+{
+  "name": "Viva San Martin 2013",
+  "description": "Aplicación de las fiestas del Barrio de Santo Domingo y San Martín de Huesca.",
+  "launch_path": "/vprogram.html",
+  "icons": {
+    "128": "images/app_icon_128.png",
+    "60": "images/app_icon_60.png"
+  },
+  "version": "0.1",
+  "developer": {
+    "name": "Joel Castro",
+    "url": "http://vivasanmartin.com"
+  },
+  "default_locale": "es"
+}
